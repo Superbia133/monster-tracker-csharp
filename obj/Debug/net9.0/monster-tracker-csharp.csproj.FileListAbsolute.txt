@@ -1,0 +1,14 @@
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\bin\Debug\net9.0\monster-tracker-csharp.exe
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\bin\Debug\net9.0\monster-tracker-csharp.deps.json
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\bin\Debug\net9.0\monster-tracker-csharp.runtimeconfig.json
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\bin\Debug\net9.0\monster-tracker-csharp.dll
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\bin\Debug\net9.0\monster-tracker-csharp.pdb
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.AssemblyInfoInputs.cache
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.AssemblyInfo.cs
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.dll
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\refint\monster-tracker-csharp.dll
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.pdb
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.genruntimeconfig.cache
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\ref\monster-tracker-csharp.dll
