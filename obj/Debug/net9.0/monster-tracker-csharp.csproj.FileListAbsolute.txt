@@ -12,3 +12,4 @@ C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\refint\monster-tr
 C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.pdb
 C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.genruntimeconfig.cache
 C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\ref\monster-tracker-csharp.dll
+C:\Users\Ejgri\Desktop\monster-tracker-csharp\obj\Debug\net9.0\monster-tracker-csharp.sourcelink.json

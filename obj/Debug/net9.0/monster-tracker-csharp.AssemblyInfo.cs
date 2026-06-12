@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("monster-tracker-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1638edda01c1c2e0774f6f6f61e4f6be8a9bccd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("monster-tracker-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("monster-tracker-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
